@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s0kcun6fm2",
+  "description": "https://v2.scrimba.com/s0kcun6fm2",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jquery": "3.2.1",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
